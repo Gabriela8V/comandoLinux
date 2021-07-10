@@ -1,2 +1,3 @@
 listar arquivos:ls
 listar arquivos ocultos:ls -a
+ler um arrquivo:cat nomedoarquivo
